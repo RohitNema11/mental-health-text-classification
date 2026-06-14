@@ -6,7 +6,7 @@ A multiclass NLP classifier that detects 7 mental health conditions from text st
 Mental health conditions are often expressed through language. This project builds a text classification model to automatically identify mental health conditions from user-written statements, which can aid in early detection and support systems.
 
 ## Dataset
-**Source:** [Sentiment Analysis for Mental Health - Kaggle](https://www.kaggle.com/datasets/suchintika/sentiment-analysis-for-mental-health)  
+**Source:** [Sentiment Analysis for Mental Health - Kaggle](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health)  
 
 > Download the dataset from Kaggle and place `Combined_Data.csv` in the root directory before running.
 
